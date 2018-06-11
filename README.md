@@ -1,4 +1,5 @@
-# Statamic ❤️ APIs
+# Custom Publish Forms + API
+> An example of using [Custom Publish forms](https://docs.statamic.com/addons/publish-forms#main) powered by a third party app or API.
 
 ## This repo's contents
 
